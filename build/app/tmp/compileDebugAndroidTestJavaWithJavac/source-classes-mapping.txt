@@ -1,0 +1,2 @@
+com/piddocke/rashinator/test/BuildConfig.java
+ com.piddocke.rashinator.test.BuildConfig

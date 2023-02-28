@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\Documents\\GitHub\\Android\\Rashinator\\build\\tflite\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\rcp\\.gradle\\caches\\transforms-3\\ac5c9e2d8f0a6c1f814344a681d39c80\\transformed\\core-1.6.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "F:\\Documents\\GitHub\\Android\\Rashinator\\build\\tflite\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\rcp\\.gradle\\caches\\transforms-3\\ac5c9e2d8f0a6c1f814344a681d39c80\\transformed\\core-1.6.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "F:\\Documents\\GitHub\\Android\\Rashinator\\build\\tflite\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\rcp\\.gradle\\caches\\transforms-3\\ac5c9e2d8f0a6c1f814344a681d39c80\\transformed\\core-1.6.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "F:\\Documents\\GitHub\\Android\\Rashinator\\build\\tflite\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\rcp\\.gradle\\caches\\transforms-3\\ac5c9e2d8f0a6c1f814344a681d39c80\\transformed\\core-1.6.0\\res\\drawable\\notification_tile_bg.xml"
+    }
+]

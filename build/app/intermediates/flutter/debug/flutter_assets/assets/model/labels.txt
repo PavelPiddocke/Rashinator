@@ -1,0 +1,18 @@
+MonkeyPox
+Actinic Keratosis
+Basal Cell Carcinoma
+Dermatofibroma
+Melanoma
+Nevus
+Pigmented Benign Keratosis
+Seborrheic Keratosis
+Squamous Cell Carcinoma
+Vascular Lesion
+Lyme Disease
+Acne and Rosacea 
+Bacterial Infections
+Eczema
+Vasculitis 
+Viral Infections and Warts
+Sebaceous Hyperplasia
+Healthy

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\Documents\\GitHub\\Android\\Rashinator\\build\\image_picker_android\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\rcp\\.gradle\\caches\\transforms-3\\10e20e06fb0c608a84d6babb946260db\\transformed\\core-1.8.0\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "F:\\Documents\\GitHub\\Android\\Rashinator\\build\\image_picker_android\\intermediates\\res\\merged\\release\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\rcp\\.gradle\\caches\\transforms-3\\10e20e06fb0c608a84d6babb946260db\\transformed\\core-1.8.0\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "F:\\Documents\\GitHub\\Android\\Rashinator\\build\\image_picker_android\\intermediates\\res\\merged\\release\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\rcp\\.gradle\\caches\\transforms-3\\10e20e06fb0c608a84d6babb946260db\\transformed\\core-1.8.0\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "F:\\Documents\\GitHub\\Android\\Rashinator\\build\\image_picker_android\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\rcp\\.gradle\\caches\\transforms-3\\10e20e06fb0c608a84d6babb946260db\\transformed\\core-1.8.0\\res\\layout-v21\\notification_template_custom_big.xml"
+    }
+]

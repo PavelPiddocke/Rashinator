@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "F:\\Documents\\GitHub\\Android\\Rashinator\\build\\image_picker_android\\intermediates\\res\\merged\\debug\\values-te\\values-te.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\rcp\\.gradle\\caches\\transforms-3\\10e20e06fb0c608a84d6babb946260db\\transformed\\core-1.8.0\\res\\values-te\\values-te.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "F:\\Documents\\GitHub\\Android\\Rashinator\\build\\image_picker_android\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-te\\values-te.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\rcp\\.gradle\\caches\\transforms-3\\10e20e06fb0c608a84d6babb946260db\\transformed\\core-1.8.0\\res\\values-te\\values-te.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,212 @@
+-- Merging decision tree log ---
+application
+INJECTED from C:\Users\Pavel Piddocke\OneDrive\Documents\GitHub\Rashinator\android\app\src\main\AndroidManifest.xml:4:4-34:19
+MERGED from [:image_picker_android] C:\Users\Pavel Piddocke\OneDrive\Documents\GitHub\Rashinator\build\image_picker_android\intermediates\merged_manifest\release\AndroidManifest.xml:7:5-17:19
+MERGED from [:image_picker_android] C:\Users\Pavel Piddocke\OneDrive\Documents\GitHub\Rashinator\build\image_picker_android\intermediates\merged_manifest\release\AndroidManifest.xml:7:5-17:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Pavel Piddocke\.gradle\caches\transforms-3\212b9ea44f8579a76970cebd86a75292\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Pavel Piddocke\.gradle\caches\transforms-3\212b9ea44f8579a76970cebd86a75292\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [org.tensorflow:tensorflow-lite:2.11.0] C:\Users\Pavel Piddocke\.gradle\caches\transforms-3\9563b4f4fc9826c7647c09d7b07e51e7\transformed\jetified-tensorflow-lite-2.11.0\AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite:2.11.0] C:\Users\Pavel Piddocke\.gradle\caches\transforms-3\9563b4f4fc9826c7647c09d7b07e51e7\transformed\jetified-tensorflow-lite-2.11.0\AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.11.0] C:\Users\Pavel Piddocke\.gradle\caches\transforms-3\bf8421820fdd421cda047a014b77d243\transformed\jetified-tensorflow-lite-gpu-2.11.0\AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.11.0] C:\Users\Pavel Piddocke\.gradle\caches\transforms-3\bf8421820fdd421cda047a014b77d243\transformed\jetified-tensorflow-lite-gpu-2.11.0\AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.8.0] C:\Users\Pavel Piddocke\.gradle\caches\transforms-3\10e20e06fb0c608a84d6babb946260db\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.8.0] C:\Users\Pavel Piddocke\.gradle\caches\transforms-3\10e20e06fb0c608a84d6babb946260db\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Pavel Piddocke\.gradle\caches\transforms-3\010e3e2938248540f71980b23971143c\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Pavel Piddocke\.gradle\caches\transforms-3\010e3e2938248540f71980b23971143c\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [org.tensorflow:tensorflow-lite-api:2.11.0] C:\Users\Pavel Piddocke\.gradle\caches\transforms-3\b6689014af964d6e2ded05682f41aca1\transformed\jetified-tensorflow-lite-api-2.11.0\AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite-api:2.11.0] C:\Users\Pavel Piddocke\.gradle\caches\transforms-3\b6689014af964d6e2ded05682f41aca1\transformed\jetified-tensorflow-lite-api-2.11.0\AndroidManifest.xml:10:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.8.0] C:\Users\Pavel Piddocke\.gradle\caches\transforms-3\10e20e06fb0c608a84d6babb946260db\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\Pavel Piddocke\OneDrive\Documents\GitHub\Rashinator\android\app\src\main\AndroidManifest.xml:5:9-35
+	android:icon
+		ADDED from C:\Users\Pavel Piddocke\OneDrive\Documents\GitHub\Rashinator\android\app\src\main\AndroidManifest.xml:7:9-43
+	android:name
+		INJECTED from C:\Users\Pavel Piddocke\OneDrive\Documents\GitHub\Rashinator\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Pavel Piddocke\OneDrive\Documents\GitHub\Rashinator\android\app\src\main\AndroidManifest.xml:6:9-42
+manifest
+ADDED from C:\Users\Pavel Piddocke\OneDrive\Documents\GitHub\Rashinator\android\app\src\main\AndroidManifest.xml:1:1-35:12
+INJECTED from C:\Users\Pavel Piddocke\OneDrive\Documents\GitHub\Rashinator\android\app\src\main\AndroidManifest.xml:1:1-35:12
+INJECTED from C:\Users\Pavel Piddocke\OneDrive\Documents\GitHub\Rashinator\android\app\src\main\AndroidManifest.xml:1:1-35:12
+INJECTED from C:\Users\Pavel Piddocke\OneDrive\Documents\GitHub\Rashinator\android\app\src\main\AndroidManifest.xml:1:1-35:12
+MERGED from [:tflite] C:\Users\Pavel Piddocke\OneDrive\Documents\GitHub\Rashinator\build\tflite\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:image_picker_android] C:\Users\Pavel Piddocke\OneDrive\Documents\GitHub\Rashinator\build\image_picker_android\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-19:12
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\Pavel Piddocke\OneDrive\Documents\GitHub\Rashinator\build\flutter_plugin_android_lifecycle\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:path_provider_android] C:\Users\Pavel Piddocke\OneDrive\Documents\GitHub\Rashinator\build\path_provider_android\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\Pavel Piddocke\.gradle\caches\transforms-3\d6d8ab96808e65d40673e4036301cdfe\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Pavel Piddocke\.gradle\caches\transforms-3\212b9ea44f8579a76970cebd86a75292\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:17:1-33:12
+MERGED from [org.tensorflow:tensorflow-lite:2.11.0] C:\Users\Pavel Piddocke\.gradle\caches\transforms-3\9563b4f4fc9826c7647c09d7b07e51e7\transformed\jetified-tensorflow-lite-2.11.0\AndroidManifest.xml:2:1-12:12
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.11.0] C:\Users\Pavel Piddocke\.gradle\caches\transforms-3\bf8421820fdd421cda047a014b77d243\transformed\jetified-tensorflow-lite-gpu-2.11.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Pavel Piddocke\.gradle\caches\transforms-3\5eb1650d2a889b11db87fef67d6a7d8b\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Pavel Piddocke\.gradle\caches\transforms-3\34923fdcacd1e9674009d5020ad0c54d\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Pavel Piddocke\.gradle\caches\transforms-3\61a235efca4a05a9f9c06aaff269507d\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Pavel Piddocke\.gradle\caches\transforms-3\633177771ff00794ec82b8e03ed37621\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Pavel Piddocke\.gradle\caches\transforms-3\a021a5ceccba9593723717a74dbdae97\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.8.0] C:\Users\Pavel Piddocke\.gradle\caches\transforms-3\10e20e06fb0c608a84d6babb946260db\transformed\core-1.8.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\Pavel Piddocke\.gradle\caches\transforms-3\41bbc977a10a9bfcb40f4322e720f40d\transformed\exifinterface-1.3.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Pavel Piddocke\.gradle\caches\transforms-3\60f41f5e2d1ffd4b4214d8ff7ba949cc\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Pavel Piddocke\.gradle\caches\transforms-3\f0f2342f74e2832216f605ce8c04b66b\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Pavel Piddocke\.gradle\caches\transforms-3\010e3e2938248540f71980b23971143c\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Pavel Piddocke\.gradle\caches\transforms-3\17aca48706b45a203de060d725ee858a\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Pavel Piddocke\.gradle\caches\transforms-3\d78673e0a6257206a32a5c0c49776a47\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Pavel Piddocke\.gradle\caches\transforms-3\f4ca954f37dd1872e56692fb040b645d\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Pavel Piddocke\.gradle\caches\transforms-3\014673fc6b1352c9d830102e681395f1\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Pavel Piddocke\.gradle\caches\transforms-3\fde820ee7a44ce04352549cd7b390b4c\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [org.tensorflow:tensorflow-lite-api:2.11.0] C:\Users\Pavel Piddocke\.gradle\caches\transforms-3\b6689014af964d6e2ded05682f41aca1\transformed\jetified-tensorflow-lite-api-2.11.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Pavel Piddocke\.gradle\caches\transforms-3\29ea4fba851d28a35c8d69679dca6797\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\Pavel Piddocke\OneDrive\Documents\GitHub\Rashinator\android\app\src\main\AndroidManifest.xml:1:1-35:12
+INJECTED from C:\Users\Pavel Piddocke\OneDrive\Documents\GitHub\Rashinator\android\app\src\main\AndroidManifest.xml:1:1-35:12
+INJECTED from C:\Users\Pavel Piddocke\OneDrive\Documents\GitHub\Rashinator\android\app\src\main\AndroidManifest.xml:1:1-35:12
+	package
+		ADDED from C:\Users\Pavel Piddocke\OneDrive\Documents\GitHub\Rashinator\android\app\src\main\AndroidManifest.xml:2:5-38
+		INJECTED from C:\Users\Pavel Piddocke\OneDrive\Documents\GitHub\Rashinator\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Pavel Piddocke\OneDrive\Documents\GitHub\Rashinator\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Pavel Piddocke\OneDrive\Documents\GitHub\Rashinator\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Pavel Piddocke\OneDrive\Documents\GitHub\Rashinator\android\app\src\main\AndroidManifest.xml:1:1-35:12
+		INJECTED from C:\Users\Pavel Piddocke\OneDrive\Documents\GitHub\Rashinator\android\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Pavel Piddocke\OneDrive\Documents\GitHub\Rashinator\android\app\src\main\AndroidManifest.xml:1:70-116
+	android:versionCode
+		INJECTED from C:\Users\Pavel Piddocke\OneDrive\Documents\GitHub\Rashinator\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Pavel Piddocke\OneDrive\Documents\GitHub\Rashinator\android\app\src\main\AndroidManifest.xml:1:1-35:12
+		INJECTED from C:\Users\Pavel Piddocke\OneDrive\Documents\GitHub\Rashinator\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Pavel Piddocke\OneDrive\Documents\GitHub\Rashinator\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Pavel Piddocke\OneDrive\Documents\GitHub\Rashinator\android\app\src\main\AndroidManifest.xml:3:5-80
+	android:name
+		ADDED from C:\Users\Pavel Piddocke\OneDrive\Documents\GitHub\Rashinator\android\app\src\main\AndroidManifest.xml:3:22-77
+uses-sdk
+INJECTED from C:\Users\Pavel Piddocke\OneDrive\Documents\GitHub\Rashinator\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Pavel Piddocke\OneDrive\Documents\GitHub\Rashinator\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Pavel Piddocke\OneDrive\Documents\GitHub\Rashinator\android\app\src\main\AndroidManifest.xml
+MERGED from [:tflite] C:\Users\Pavel Piddocke\OneDrive\Documents\GitHub\Rashinator\build\tflite\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:tflite] C:\Users\Pavel Piddocke\OneDrive\Documents\GitHub\Rashinator\build\tflite\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:image_picker_android] C:\Users\Pavel Piddocke\OneDrive\Documents\GitHub\Rashinator\build\image_picker_android\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:image_picker_android] C:\Users\Pavel Piddocke\OneDrive\Documents\GitHub\Rashinator\build\image_picker_android\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\Pavel Piddocke\OneDrive\Documents\GitHub\Rashinator\build\flutter_plugin_android_lifecycle\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\Pavel Piddocke\OneDrive\Documents\GitHub\Rashinator\build\flutter_plugin_android_lifecycle\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] C:\Users\Pavel Piddocke\OneDrive\Documents\GitHub\Rashinator\build\path_provider_android\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] C:\Users\Pavel Piddocke\OneDrive\Documents\GitHub\Rashinator\build\path_provider_android\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\Pavel Piddocke\.gradle\caches\transforms-3\d6d8ab96808e65d40673e4036301cdfe\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\Pavel Piddocke\.gradle\caches\transforms-3\d6d8ab96808e65d40673e4036301cdfe\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Pavel Piddocke\.gradle\caches\transforms-3\212b9ea44f8579a76970cebd86a75292\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Pavel Piddocke\.gradle\caches\transforms-3\212b9ea44f8579a76970cebd86a75292\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [org.tensorflow:tensorflow-lite:2.11.0] C:\Users\Pavel Piddocke\.gradle\caches\transforms-3\9563b4f4fc9826c7647c09d7b07e51e7\transformed\jetified-tensorflow-lite-2.11.0\AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite:2.11.0] C:\Users\Pavel Piddocke\.gradle\caches\transforms-3\9563b4f4fc9826c7647c09d7b07e51e7\transformed\jetified-tensorflow-lite-2.11.0\AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.11.0] C:\Users\Pavel Piddocke\.gradle\caches\transforms-3\bf8421820fdd421cda047a014b77d243\transformed\jetified-tensorflow-lite-gpu-2.11.0\AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.11.0] C:\Users\Pavel Piddocke\.gradle\caches\transforms-3\bf8421820fdd421cda047a014b77d243\transformed\jetified-tensorflow-lite-gpu-2.11.0\AndroidManifest.xml:7:5-8:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Pavel Piddocke\.gradle\caches\transforms-3\5eb1650d2a889b11db87fef67d6a7d8b\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Pavel Piddocke\.gradle\caches\transforms-3\5eb1650d2a889b11db87fef67d6a7d8b\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Pavel Piddocke\.gradle\caches\transforms-3\34923fdcacd1e9674009d5020ad0c54d\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Pavel Piddocke\.gradle\caches\transforms-3\34923fdcacd1e9674009d5020ad0c54d\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Pavel Piddocke\.gradle\caches\transforms-3\61a235efca4a05a9f9c06aaff269507d\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Pavel Piddocke\.gradle\caches\transforms-3\61a235efca4a05a9f9c06aaff269507d\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Pavel Piddocke\.gradle\caches\transforms-3\633177771ff00794ec82b8e03ed37621\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Pavel Piddocke\.gradle\caches\transforms-3\633177771ff00794ec82b8e03ed37621\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Pavel Piddocke\.gradle\caches\transforms-3\a021a5ceccba9593723717a74dbdae97\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Pavel Piddocke\.gradle\caches\transforms-3\a021a5ceccba9593723717a74dbdae97\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.8.0] C:\Users\Pavel Piddocke\.gradle\caches\transforms-3\10e20e06fb0c608a84d6babb946260db\transformed\core-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] C:\Users\Pavel Piddocke\.gradle\caches\transforms-3\10e20e06fb0c608a84d6babb946260db\transformed\core-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\Pavel Piddocke\.gradle\caches\transforms-3\41bbc977a10a9bfcb40f4322e720f40d\transformed\exifinterface-1.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\Pavel Piddocke\.gradle\caches\transforms-3\41bbc977a10a9bfcb40f4322e720f40d\transformed\exifinterface-1.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Pavel Piddocke\.gradle\caches\transforms-3\60f41f5e2d1ffd4b4214d8ff7ba949cc\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Pavel Piddocke\.gradle\caches\transforms-3\60f41f5e2d1ffd4b4214d8ff7ba949cc\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Pavel Piddocke\.gradle\caches\transforms-3\f0f2342f74e2832216f605ce8c04b66b\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Pavel Piddocke\.gradle\caches\transforms-3\f0f2342f74e2832216f605ce8c04b66b\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Pavel Piddocke\.gradle\caches\transforms-3\010e3e2938248540f71980b23971143c\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Pavel Piddocke\.gradle\caches\transforms-3\010e3e2938248540f71980b23971143c\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Pavel Piddocke\.gradle\caches\transforms-3\17aca48706b45a203de060d725ee858a\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Pavel Piddocke\.gradle\caches\transforms-3\17aca48706b45a203de060d725ee858a\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Pavel Piddocke\.gradle\caches\transforms-3\d78673e0a6257206a32a5c0c49776a47\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Pavel Piddocke\.gradle\caches\transforms-3\d78673e0a6257206a32a5c0c49776a47\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Pavel Piddocke\.gradle\caches\transforms-3\f4ca954f37dd1872e56692fb040b645d\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Pavel Piddocke\.gradle\caches\transforms-3\f4ca954f37dd1872e56692fb040b645d\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Pavel Piddocke\.gradle\caches\transforms-3\014673fc6b1352c9d830102e681395f1\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Pavel Piddocke\.gradle\caches\transforms-3\014673fc6b1352c9d830102e681395f1\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Pavel Piddocke\.gradle\caches\transforms-3\fde820ee7a44ce04352549cd7b390b4c\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Pavel Piddocke\.gradle\caches\transforms-3\fde820ee7a44ce04352549cd7b390b4c\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [org.tensorflow:tensorflow-lite-api:2.11.0] C:\Users\Pavel Piddocke\.gradle\caches\transforms-3\b6689014af964d6e2ded05682f41aca1\transformed\jetified-tensorflow-lite-api-2.11.0\AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite-api:2.11.0] C:\Users\Pavel Piddocke\.gradle\caches\transforms-3\b6689014af964d6e2ded05682f41aca1\transformed\jetified-tensorflow-lite-api-2.11.0\AndroidManifest.xml:7:5-8:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Pavel Piddocke\.gradle\caches\transforms-3\29ea4fba851d28a35c8d69679dca6797\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Pavel Piddocke\.gradle\caches\transforms-3\29ea4fba851d28a35c8d69679dca6797\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Pavel Piddocke\OneDrive\Documents\GitHub\Rashinator\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Pavel Piddocke\OneDrive\Documents\GitHub\Rashinator\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Pavel Piddocke\OneDrive\Documents\GitHub\Rashinator\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Pavel Piddocke\OneDrive\Documents\GitHub\Rashinator\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Pavel Piddocke\OneDrive\Documents\GitHub\Rashinator\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Pavel Piddocke\OneDrive\Documents\GitHub\Rashinator\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Pavel Piddocke\OneDrive\Documents\GitHub\Rashinator\android\app\src\main\AndroidManifest.xml
+		MERGED from C:\Users\Pavel Piddocke\OneDrive\Documents\GitHub\Rashinator\android\app\src\main\AndroidManifest.xml
+		MERGED from C:\Users\Pavel Piddocke\OneDrive\Documents\GitHub\Rashinator\android\app\src\main\AndroidManifest.xml
+		MERGED from C:\Users\Pavel Piddocke\OneDrive\Documents\GitHub\Rashinator\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Pavel Piddocke\OneDrive\Documents\GitHub\Rashinator\android\app\src\main\AndroidManifest.xml
+activity#com.piddocke.rashinator.MainActivity
+ADDED from C:\Users\Pavel Piddocke\OneDrive\Documents\GitHub\Rashinator\android\app\src\main\AndroidManifest.xml:8:9-28:20
+	android:launchMode
+		ADDED from C:\Users\Pavel Piddocke\OneDrive\Documents\GitHub\Rashinator\android\app\src\main\AndroidManifest.xml:11:13-43
+	android:hardwareAccelerated
+		ADDED from C:\Users\Pavel Piddocke\OneDrive\Documents\GitHub\Rashinator\android\app\src\main\AndroidManifest.xml:14:13-47
+	android:windowSoftInputMode
+		ADDED from C:\Users\Pavel Piddocke\OneDrive\Documents\GitHub\Rashinator\android\app\src\main\AndroidManifest.xml:15:13-55
+	android:exported
+		ADDED from C:\Users\Pavel Piddocke\OneDrive\Documents\GitHub\Rashinator\android\app\src\main\AndroidManifest.xml:10:13-36
+	android:configChanges
+		ADDED from C:\Users\Pavel Piddocke\OneDrive\Documents\GitHub\Rashinator\android\app\src\main\AndroidManifest.xml:13:13-163
+	android:theme
+		ADDED from C:\Users\Pavel Piddocke\OneDrive\Documents\GitHub\Rashinator\android\app\src\main\AndroidManifest.xml:12:13-47
+	android:name
+		ADDED from C:\Users\Pavel Piddocke\OneDrive\Documents\GitHub\Rashinator\android\app\src\main\AndroidManifest.xml:9:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from C:\Users\Pavel Piddocke\OneDrive\Documents\GitHub\Rashinator\android\app\src\main\AndroidManifest.xml:20:13-23:17
+	android:resource
+		ADDED from C:\Users\Pavel Piddocke\OneDrive\Documents\GitHub\Rashinator\android\app\src\main\AndroidManifest.xml:22:15-52
+	android:name
+		ADDED from C:\Users\Pavel Piddocke\OneDrive\Documents\GitHub\Rashinator\android\app\src\main\AndroidManifest.xml:21:15-70
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Pavel Piddocke\OneDrive\Documents\GitHub\Rashinator\android\app\src\main\AndroidManifest.xml:24:13-27:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Pavel Piddocke\OneDrive\Documents\GitHub\Rashinator\android\app\src\main\AndroidManifest.xml:25:17-68
+	android:name
+		ADDED from C:\Users\Pavel Piddocke\OneDrive\Documents\GitHub\Rashinator\android\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Pavel Piddocke\OneDrive\Documents\GitHub\Rashinator\android\app\src\main\AndroidManifest.xml:26:17-76
+	android:name
+		ADDED from C:\Users\Pavel Piddocke\OneDrive\Documents\GitHub\Rashinator\android\app\src\main\AndroidManifest.xml:26:27-74
+meta-data#flutterEmbedding
+ADDED from C:\Users\Pavel Piddocke\OneDrive\Documents\GitHub\Rashinator\android\app\src\main\AndroidManifest.xml:31:9-33:33
+	android:value
+		ADDED from C:\Users\Pavel Piddocke\OneDrive\Documents\GitHub\Rashinator\android\app\src\main\AndroidManifest.xml:33:13-30
+	android:name
+		ADDED from C:\Users\Pavel Piddocke\OneDrive\Documents\GitHub\Rashinator\android\app\src\main\AndroidManifest.xml:32:13-44
+provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
+ADDED from [:image_picker_android] C:\Users\Pavel Piddocke\OneDrive\Documents\GitHub\Rashinator\build\image_picker_android\intermediates\merged_manifest\release\AndroidManifest.xml:8:9-16:20
+	android:grantUriPermissions
+		ADDED from [:image_picker_android] C:\Users\Pavel Piddocke\OneDrive\Documents\GitHub\Rashinator\build\image_picker_android\intermediates\merged_manifest\release\AndroidManifest.xml:12:13-47
+	android:authorities
+		ADDED from [:image_picker_android] C:\Users\Pavel Piddocke\OneDrive\Documents\GitHub\Rashinator\build\image_picker_android\intermediates\merged_manifest\release\AndroidManifest.xml:10:13-74
+	android:exported
+		ADDED from [:image_picker_android] C:\Users\Pavel Piddocke\OneDrive\Documents\GitHub\Rashinator\build\image_picker_android\intermediates\merged_manifest\release\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [:image_picker_android] C:\Users\Pavel Piddocke\OneDrive\Documents\GitHub\Rashinator\build\image_picker_android\intermediates\merged_manifest\release\AndroidManifest.xml:9:13-82
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:image_picker_android] C:\Users\Pavel Piddocke\OneDrive\Documents\GitHub\Rashinator\build\image_picker_android\intermediates\merged_manifest\release\AndroidManifest.xml:13:13-15:75
+	android:resource
+		ADDED from [:image_picker_android] C:\Users\Pavel Piddocke\OneDrive\Documents\GitHub\Rashinator\build\image_picker_android\intermediates\merged_manifest\release\AndroidManifest.xml:15:17-72
+	android:name
+		ADDED from [:image_picker_android] C:\Users\Pavel Piddocke\OneDrive\Documents\GitHub\Rashinator\build\image_picker_android\intermediates\merged_manifest\release\AndroidManifest.xml:14:17-67
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Pavel Piddocke\.gradle\caches\transforms-3\212b9ea44f8579a76970cebd86a75292\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Pavel Piddocke\.gradle\caches\transforms-3\212b9ea44f8579a76970cebd86a75292\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Pavel Piddocke\.gradle\caches\transforms-3\212b9ea44f8579a76970cebd86a75292\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Pavel Piddocke\.gradle\caches\transforms-3\212b9ea44f8579a76970cebd86a75292\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Pavel Piddocke\.gradle\caches\transforms-3\212b9ea44f8579a76970cebd86a75292\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Pavel Piddocke\.gradle\caches\transforms-3\212b9ea44f8579a76970cebd86a75292\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51

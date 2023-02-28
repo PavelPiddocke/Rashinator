@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "F:\\Documents\\GitHub\\Android\\Rashinator\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\rcp\\.gradle\\caches\\transforms-3\\ac5c9e2d8f0a6c1f814344a681d39c80\\transformed\\core-1.6.0\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "F:\\Documents\\GitHub\\Android\\Rashinator\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\rcp\\.gradle\\caches\\transforms-3\\ac5c9e2d8f0a6c1f814344a681d39c80\\transformed\\core-1.6.0\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "F:\\Documents\\GitHub\\Android\\Rashinator\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\rcp\\.gradle\\caches\\transforms-3\\ac5c9e2d8f0a6c1f814344a681d39c80\\transformed\\core-1.6.0\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "F:\\Documents\\GitHub\\Android\\Rashinator\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\rcp\\.gradle\\caches\\transforms-3\\ac5c9e2d8f0a6c1f814344a681d39c80\\transformed\\core-1.6.0\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "F:\\Documents\\GitHub\\Android\\Rashinator\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\rcp\\.gradle\\caches\\transforms-3\\ac5c9e2d8f0a6c1f814344a681d39c80\\transformed\\core-1.6.0\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    }
+]

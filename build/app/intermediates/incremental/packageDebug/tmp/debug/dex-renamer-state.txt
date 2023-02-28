@@ -1,0 +1,4 @@
+#Fri Feb 10 17:16:08 PST 2023
+base.0=C\:\\Users\\Pavel Piddocke\\OneDrive\\Documents\\GitHub\\Rashinator\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
